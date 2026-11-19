@@ -1,0 +1,11 @@
+{
+    "pc1": "http://10.10.10.50",
+    "pc2": "http://10.10.10.51",
+    "deck": "B",
+    "storage_bank": 2,
+    "scan_from": 1,
+    "scan_to": 50,
+    "effects": "S2P1,S2P2,S2P3,S2P4,S2P5,S2P6",
+    "interval": 60,
+    "mode": "random"
+}
